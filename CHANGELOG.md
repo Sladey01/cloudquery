@@ -4,6 +4,13 @@ All notable changes to CloudQuery will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [0.31.7](https://github.com/cloudquery/cloudquery/compare/v0.31.6...v0.31.7) (2022-07-07)
+
+
+### Features
+
+* Send telemetry about failed COPY FROMs ([#1050](https://github.com/cloudquery/cloudquery/issues/1050)) ([1da0478](https://github.com/cloudquery/cloudquery/commit/1da0478aa05ab409a74d2170bced181aff78e74e))
+
 ## [0.31.6](https://github.com/cloudquery/cloudquery/compare/v0.31.5...v0.31.6) (2022-07-06)
 
 
